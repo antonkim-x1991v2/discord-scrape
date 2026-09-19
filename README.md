@@ -8,4 +8,4 @@ install:
 run:
 - python scrape.py --token YOUR_TOKEN --channel CHANNEL_ID
 
-<!-- refreshed: 2026-09-18 -->
+<!-- refreshed: 2026-09-19 -->
